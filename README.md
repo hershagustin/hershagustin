@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">✨ I build user-friendly websites that connect with users and support business goals.<br>When I'm not coding, you might find me:  
+<p align="left">✨ I build user-friendly websites that connect with users and support business goals.<br><br><br>
+  When I'm not coding, you might find me:<br>  
 - 🏃‍♀️ Running (if I can find the time) <br>
 - 🥗 Trying to eat healthy (most of the time) <br>
 - 👩‍🍳 Playing chef, sometimes losing the battle <br>
@@ -37,8 +38,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
 </div>
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
 📂 Portfolio: https://hershagustin.com)  
+
 💌 Let’s connect: 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
