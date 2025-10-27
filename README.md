@@ -16,7 +16,7 @@
 - 🥗 Trying to eat healthy (most of the time) <br>
 - 👩‍🍳 Playing chef, sometimes losing the battle <br>
 - 🖌 Painting and drawing for fun <br>
-- ✈ Traveling and learning about new cultures'<br>
+- ✈ Traveling and learning about new cultures'<br><br>
   I enjoy connecting with others, exploring creative opportunities, and staying up-to-date with the latest web technologies.<br>
 </p>
 
@@ -47,7 +47,9 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /\>
-</div>
-hershagustin@gmail.com | https://www.linkedin.com/in/hersheyagustinwebdesigneranddeveloper/
+</div><br>
+<p>hershagustin@gmail.com | https://www.linkedin.com/in/hersheyagustinwebdesigneranddeveloper</p><br><br>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXZudHMybXN0YjBzdzM4dmZ3MGp4c3dqMHIxMjZvOGxuaWwwMjBreiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CuuSHzuc0O166MRfjt/giphy.gif" alt="penguin pressing the button"/>
 
 
