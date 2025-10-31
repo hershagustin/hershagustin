@@ -16,7 +16,7 @@
 - 🥗 Trying to eat healthy (most of the time) <br>
 - 👩‍🍳 Playing chef, sometimes losing the battle <br>
 - 🖌 Painting and drawing for fun <br>
-- ✈ Traveling and learning about new cultures'<br><br>
+- ✈ Traveling and learning about new cultures<br><br>
   I enjoy connecting with others, exploring creative opportunities, and staying up-to-date with the latest web technologies.<br>
 </p>
 
