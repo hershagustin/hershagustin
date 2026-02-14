@@ -6,11 +6,15 @@
 
 - 👨‍💻 All of my projects are available at [https://hershagustin.com/](https://hershagustin.com/)
 
-- ⚡ Fun fact **I play the violin**
+⚡When I’m not coding, you might catch me:  
+- 🏃‍♂️ Running away from deadlines (just kidding… mostly)  
+- 🎻 Jamming on my violin  
+- 🛍️ Designing digital goodies for my Etsy shop  
+- 💻 Geeking out at tech workshops to stay sharp
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/inhersheyagustin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hersheyagustin/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hersheyagustin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hersheyagustin/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
