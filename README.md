@@ -33,6 +33,6 @@ I enjoy connecting with others, exploring creative opportunities, and staying up
 ---
 [![](https://visitcount.itsvg.in/api?id=hershagustin&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Coding Penguin GIF](https://media.giphy.com/media/puv3coc5z4pkth51/giphy.gif)
+![Coding Penguin GIF]([https://media.giphy.com/media/puv3coc5z4pkth51/giphy.gif](https://media.gifdb.com/coding-penguin-i-like-pressing-buttons-puv3coc5z4pkth51.gif))
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
