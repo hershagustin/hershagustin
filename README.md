@@ -33,10 +33,7 @@ I enjoy connecting with others, exploring creative opportunities, and staying up
 ---
 [![](https://visitcount.itsvg.in/api?id=hershagustin&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Bug reaction GIF](https://media.giphy.com/media/tGED68BogsXXcocK8l/giphy.gif)
-![Funny coding GIF](https://media.giphy.com/media/d314tXXrfzPGqZlnMu/giphy.gif)
-![Coding dev GIF](https://media.giphy.com/media/aHiv481xki1WdhQonS/giphy.gif)
-
+![Coding Penguin GIF](https://media.giphy.com/media/puv3coc5z4pkth51/giphy.gif)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
