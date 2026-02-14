@@ -7,7 +7,7 @@
 - 👨‍💻 All of my projects are available at [https://hershagustin.com/](https://hershagustin.com/)
 
 ⚡When I’m not coding, you might catch me:  
-- 🏃‍♂️ Running away from deadlines (just kidding… mostly)  
+- 🏃‍♂️ Running (if I can find the time)
 - 🎻 Jamming on my violin  
 - 🛍️ Designing digital goodies for my Etsy shop  
 - 💻 Geeking out at tech workshops to stay sharp
