@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hershagustin&label=Profile%20views&color=0e75b6&style=flat" alt="hershagustin" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://hershagustin.com/](https://hershagustin.com/)
+- 👨‍💻 Check out what I’ve built at:  [https://hershagustin.com/](https://hershagustin.com/)
 
 ⚡When I’m not coding, you might catch me:  
 - 🏃‍♂️ Running (if I can find the time)
