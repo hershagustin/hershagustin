@@ -1,4 +1,4 @@
-![Banner](github-header-banner.png)
+![Banner](github-header-banner-hershey.png)
 
 <h3 align="center">Web designer & developer based in Edmonton, Alberta 🌐 I build simple, readable, and accessible websites that connect with users and support business goals.</h3>
 
