@@ -1,5 +1,5 @@
 ![Banner](github-header-banner.png)
-<h1 align="center">Hi 👋, I'm Hershey Agustin</h1>
+
 <h3 align="center">Web designer & developer based in Edmonton, Alberta 🌐 I build simple, readable, and accessible websites that connect with users and support business goals.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hershagustin&label=Profile%20views&color=0e75b6&style=flat" alt="hershagustin" /> </p>
