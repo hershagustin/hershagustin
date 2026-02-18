@@ -31,7 +31,8 @@ I enjoy connecting with others, exploring creative opportunities, and staying up
 ---
 [![](https://visitcount.itsvg.in/api?id=hershagustin&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![GitHub Views](https://komarev.com/ghpvc/?hershagustin=<hershagustin>)
+![Profile Views](https://komarev.com/ghpvc/?username=hershagustin&label=Profile+Views&color=blue)
+
 
 
 ![Coding Penguin GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Z4Z2p3aWU3ZzJvMzQwb2JnOWVvczM0MHZ0dDI0bzU4Y2ZxcWphaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif)
