@@ -2,8 +2,6 @@
 
 <h3 align="center">Web designer & developer based in Edmonton, Alberta 🌐 I build simple, readable, and accessible websites that connect with users and support business goals.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hershagustin&label=Profile%20views&color=0e75b6&style=flat" alt="hershagustin" /> </p>
-
 - 👨‍💻 Check out what I’ve built at:  [https://hershagustin.com/](https://hershagustin.com/)
 
 ⚡When I’m not coding, you might catch me:  
