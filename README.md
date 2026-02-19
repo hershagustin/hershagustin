@@ -18,7 +18,7 @@ I enjoy connecting with others, exploring creative opportunities, and staying up
 <a href="https://linkedin.com/in/hersheyagustin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hersheyagustin/" height="30" width="40" /></a>
 </p>
 <br/>
-<br/>
+
 
 # 💻 Tech Stack:
 ![](https://github-readme-stats.vercel.app/api?username=hershagustin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
