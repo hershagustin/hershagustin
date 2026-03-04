@@ -2,7 +2,7 @@
 
 <h3 align="center">Web designer & developer based in Edmonton, Alberta 🌐 I build simple, readable, and accessible websites that connect with users and support business goals.</h3>
 
-- 👨‍💻 Check out what I’ve built at:  [https://hershagustin.com/](https://hershagustin.com/)
+- 👨‍💻 Check out what I’ve built / Live Demos at:  [https://hershagustin.com/](https://hershagustin.com/)
 
 ⚡When I’m not coding, you might catch me:  
 - 🏃‍♂️ Running (if I can find the time)
