@@ -2,7 +2,7 @@
 
 <h3 align="center">Web designer & developer based in Edmonton, Alberta 🌐 I build simple, readable, and accessible websites that connect with users and support business goals.</h3>
 
-- 👨‍💻 Check out what I’ve built / Live Demos at:  [https://hershagustin.com/](https://hershagustin.com/)
+- 👨‍💻 Check out what I’ve built / live websites at:  [https://hershagustin.com/](https://hershagustin.com/)
 
 ⚡When I’m not coding, you might catch me:  
 - 🏃‍♂️ Running (if I can find the time)
@@ -30,7 +30,7 @@ I enjoy connecting with others, exploring creative opportunities, and staying up
 ![](https://github-readme-stats.vercel.app/api?username=hershagustin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=hershagustin&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hershagustin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=hershagustin.hershagustin)
+![views](https://visitor-badge.laobi.icu/badge?page_id=hershagustin.hershagustin)
 
 ---
 
