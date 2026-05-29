@@ -1,9 +1,93 @@
 ![Banner](github-header-banner-hershey.png)
 
+<h3 align="center">
+Web Designer & Developer based in Edmonton, Alberta 🌐<br/>
+I build simple, readable, and accessible websites that connect with users and support business goals.
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hershagustin&label=Profile%20views&color=0e75b6&style=flat" alt="hershagustin" />
+</p>
+
+- 👨‍💻 Check out my portfolio and live projects: [hershagustin.com](https://hershagustin.com/)
+- 💼 Currently working as a Web Designer & SEO Specialist
+- 🌱 Passionate about continuous learning through hackathons, tech workshops, and volunteer work as a Web Content Coordinator with AiLA, a non-profit and volunteer-led organization
+- 💌 Open to freelance work, collaborations, and creative web projects — let’s connect!
+
+## ⚡ When I’m not coding, you might catch me:
+
+- 🏃‍♂️ Running (if I can find the time)
+- 🎻 Jamming on my violin
+- 🛍️ Designing digital goodies for my Etsy shop
+- 💻 Geeking out at tech workshops to stay sharp
+
+I enjoy connecting with others, exploring creative opportunities, and staying up-to-date with the latest web technologies.
+
+# 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/hersheyagustin/" target="_blank">
+    <img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="Hershey Agustin LinkedIn"
+      height="30"
+      width="40"
+    />
+  </a>
+</p>
+
+# 💻 Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="45" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="45" alt="Sass" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="45" alt="jQuery" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="45" alt="WordPress" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/joomla/joomla-original.svg" height="45" alt="Joomla" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="45" alt="CodeIgniter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="45" alt="Photoshop" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="45" alt="Illustrator" />
+</p>
+
+# 📊 GitHub Stats
+
+![](https://nirzak-streak-stats.vercel.app/?user=hershagustin&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hershagustin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Z4Z2p3aWU3ZzJvMzQwb2JnOWVvczM0MHZ0dDI0bzU4Y2ZxcWphaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="300"/>
+</p>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```
+
+
+[Banner](github-header-banner-hershey.png)
+
 <h3 align="center">Web designer & developer based in Edmonton, Alberta 🌐 I build simple, readable, and accessible websites that connect with users and support business goals.</h3>
 
 - 👨‍💻 Check out what I’ve built / live websites at:  [https://hershagustin.com/](https://hershagustin.com/)
 
+- 💌 Got a project idea? Let’s build something together. Open to freelance work and collaborations.— shoot me an email!
+
+- 💼 Currently working as a Web Designer & SEO Specialist
+  
+- 🌱 Passionate about continuous learning through hackathons, tech workshops, and volunteer work as a Web Content Coordinator with AiLA, a non-profit and volunteer-led organization.
+  
 ⚡When I’m not coding, you might catch me:  
 - 🏃‍♂️ Running (if I can find the time)
 - 🎻 Jamming on my violin  
