@@ -8,11 +8,14 @@ I build simple, readable, and accessible websites that connect with users and su
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hershagustin&label=Profile%20views&color=0e75b6&style=flat" alt="hershagustin" />
 </p>
+- 👨‍💻 Check out what I’ve built / live websites at:  [hershagustin.com](https://hershagustin.com/)
 
-- 👨‍💻 Check out my portfolio and live projects: [hershagustin.com](https://hershagustin.com/)
 - 💼 Currently working as a Web Designer & SEO Specialist
+  
 - 🌱 Passionate about continuous learning through hackathons, tech workshops, and volunteer work as a Web Content Coordinator with AiLA, a non-profit and volunteer-led organization
-- 💌 Open to freelance work, collaborations, and creative web projects — let’s connect!
+ 
+- 💌 Got a project idea? Let’s build something together. Open to freelance work and collaborations.— shoot me an email!
+  
 
 ## ⚡ When I’m not coding, you might catch me:
 
@@ -80,9 +83,7 @@ I enjoy connecting with others, exploring creative opportunities, and staying up
 
 <h3 align="center">Web designer & developer based in Edmonton, Alberta 🌐 I build simple, readable, and accessible websites that connect with users and support business goals.</h3>
 
-- 👨‍💻 Check out what I’ve built / live websites at:  [https://hershagustin.com/](https://hershagustin.com/)
 
-- 💌 Got a project idea? Let’s build something together. Open to freelance work and collaborations.— shoot me an email!
 
 - 💼 Currently working as a Web Designer & SEO Specialist
   
