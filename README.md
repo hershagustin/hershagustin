@@ -8,7 +8,8 @@ I build simple, readable, and accessible websites that connect with users and su
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hershagustin&label=Profile%20views&color=0e75b6&style=flat" alt="hershagustin" />
 </p>
-- 👨‍💻 Check out what I’ve built / live websites at:  [hershagustin.com](https://hershagustin.com/)
+
+👨‍💻 Check out what I’ve built / live websites at: (https://hershagustin.com/)
 
 - 💼 Currently working as a Web Designer & SEO Specialist
   
@@ -63,12 +64,21 @@ I enjoy connecting with others, exploring creative opportunities, and staying up
 
 # 📊 GitHub Stats
 
-![](https://nirzak-streak-stats.vercel.app/?user=hershagustin&theme=dark&hide_border=false)
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=hershagustin&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hershagustin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hershagustin&layout=compact&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
+</p>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Z4Z2p3aWU3ZzJvMzQwb2JnOWVvczM0MHZ0dDI0bzU4Y2ZxcWphaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="300"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=hershagustin&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
 </p>
