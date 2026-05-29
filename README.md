@@ -66,21 +66,8 @@ I enjoy connecting with others, exploring creative opportunities, and staying up
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=hershagustin&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="170"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hershagustin&layout=compact&theme=tokyonight&hide_border=true" 
-    height="170"
-  />
-</p>
-
-<p align="center">
-
-  <p align="center"> <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="300" alt="Coding Penguin" /> </p>
-  <img 
     src="https://streak-stats.demolab.com?user=hershagustin&theme=tokyonight&hide_border=true" 
     height="170"
   />
+  <p align="center"> <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="300" alt="Coding Penguin" /> </p>
 </p>
