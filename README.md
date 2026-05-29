@@ -13,7 +13,7 @@ I build simple, readable, and accessible websites that connect with users and su
 
 - 💼 Currently working as a Web Designer & SEO Specialist
   
-- 🌱 Passionate about continuous learning through hackathons, tech workshops, and volunteer work as a Web Content Coordinator with AiLA, a non-profit and volunteer-led organization
+- 🌱 Passionate about continuous learning through hackathons, tech workshops, and volunteer work as a Web Content Coordinator with AiLA, a volunteer-led non-profit organization
  
 - 💌 Got a project idea? Let’s build something together. Open to freelance work and collaborations.— shoot me an email! **hershagustin@gmail.com**
   
