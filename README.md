@@ -11,7 +11,7 @@ I build simple, readable, and accessible websites that connect with users and su
 
 👨‍💻 Check out what I’ve built / live websites at: (https://hershagustin.com/)
 
-- 💼 Currently working as a Web Designer & SEO Specialist
+- 💼 Currently working as a Web Designer/Developer & SEO Specialist
   
 - 🌱 Passionate about continuous learning through hackathons, tech workshops, and volunteer work as a Web Content Coordinator with AiLA, a volunteer-led non-profit organization
  
